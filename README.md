@@ -7,4 +7,4 @@ My hope is to get to a point where I can start creating tools with Rust. I was l
 
 My Other Rust Repositories:
 - [colorgen](https://github.com/nareha/colorgen)
-
+- [imgscii](https://github.com/nareha/imgscii)
